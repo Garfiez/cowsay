@@ -1,0 +1,6 @@
+name: ${plugin-name}
+version: ${version}
+main: me.garfiez.cowsay.spigot.CowSaySpigotPlugin
+commands:
+  cowsay:
+    permission: cowsay.admin
